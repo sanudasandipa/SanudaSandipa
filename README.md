@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi 👋, I'm Sanuda Sandipa
 <br>🤝 I’m looking for help with Javascript<br>🌱 I’m currently learning Java <br>
 
 
