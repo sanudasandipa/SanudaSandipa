@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Sanuda Sandipa
-<br>🤝 I’m looking for help with Javascript<br>🌱 I’m currently learning Java <br>
+<br>🤝 I’m looking for help with MERN<br>🌱 I’m currently learning Kotlin <br>
 
 
 ## 🌐 Socials:
