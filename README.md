@@ -22,11 +22,6 @@ I'm a passionate software developer currently exploring the MERN stack and learn
 ## 🔝 Top Contributed Repo
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=sanudasandipa&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 😂 Random Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-
 ## 🧐 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=sanudasandipa&color=brightgreen)
 
