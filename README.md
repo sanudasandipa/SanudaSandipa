@@ -25,6 +25,6 @@ I'm a passionate software developer currently exploring the MERN stack and learn
 ## 🧐 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=sanudasandipa&color=brightgreen)
 
-[![Profile Visitor Count](https://visitcount.itsvg.in/api?id=sanudasandipa&icon=5&color=1)](https://visitcount.itsvg.in)
+
 
 
