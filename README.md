@@ -5,7 +5,8 @@ I'm a passionate software developer currently exploring the MERN stack and learn
 ## 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com//sanuda_sandipa/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanuda-sandipa-527ab426b) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@feel_the_music22) 
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sanuda-sandipa-527ab426b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lk.linkedin.com/in/sanuda-sandipa-527ab426b?trk=profile-badge">Sanuda Sandipa</a></div>
+[![Sanuda Sandipa LinkedIn Profile](https://linkedin.com/in/sanuda-sandipa-527ab426b)](https://lk.linkedin.com/in/sanuda-sandipa-527ab426b?trk=profile-badge)
+
               
 
 ## 💻 Tech Stack:
