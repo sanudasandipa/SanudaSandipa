@@ -3,7 +3,8 @@
 I'm a passionate software developer currently exploring the MERN stack and learning Kotlin. Welcome to my GitHub profile!
 
 ## 🌐 Connect with me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com//sanuda_sandipa/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanuda-sandipa-527ab426b) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@feel_the_music22) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com//sanuda_sandipa/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanuda-sandipa-527ab426b) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@feel_the_music22) [![X](https://img.shields.io/badge/X-%230077B5.svg?logo=X&logoColor=white)](https://x.com/SanudaSandipa?t=qfwqigNcuBnzeVaJeAHBgA&s=09)
+
 
 ## 💻 Tech Stack:
 ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
