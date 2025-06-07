@@ -5,6 +5,8 @@ I'm a passionate software developer currently exploring the MERN stack and learn
 ## 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com//sanuda_sandipa/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanuda-sandipa-527ab426b) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@feel_the_music22) [![X](https://img.shields.io/badge/X-%230077B5.svg?logo=X&logoColor=white)](https://x.com/SanudaSandipa?t=qfwqigNcuBnzeVaJeAHBgA&s=09)
 
+## 🧐 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=sanudasandipa&color=brightgreen)
 
 ## 💻 Tech Stack:
 ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
@@ -56,5 +58,4 @@ I'm a passionate software developer currently exploring the MERN stack and learn
 ## 🔝 Top Contributed Repo
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=sanudasandipa&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 🧐 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=sanudasandipa&color=brightgreen)
+
