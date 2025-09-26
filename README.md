@@ -9,7 +9,7 @@ I'm a passionate software developer currently exploring the MERN stack and learn
 ![Profile Views](https://komarev.com/ghpvc/?username=sanudasandipa&color=brightgreen)
 
 
-![Uploading Designer.gif…]()
+![Uploading Designer.gif…](https://github.com/sanudasandipa/SanudaSandipa/blob/1f0be2dcd8c5f91ec3087b381848ed60f436932d/assets/Designer.gif)
 
 ## 💻 Tech Stack:
 ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
