@@ -8,6 +8,8 @@ I'm a passionate software developer currently exploring the MERN stack and learn
 ## 🧐 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=sanudasandipa&color=brightgreen)
 
+![Developer Skills Animation](https://github-readme-lottie.vercel.app/api?url=https://raw.githubusercontent.com/sanudasandipa/SanudaSandipa/main/developer%20skills.json&height=300&backgroundColor=transparent)
+
 ## 💻 Tech Stack:
 ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
