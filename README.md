@@ -1,38 +1,47 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=220&section=header&text=Sanuda%20Sandipa&fontSize=55&fontColor=FFFFFF&animation=fadeIn&desc=Software%20Developer%20%7C%20AI%2FML%20%26%20RAG%20Systems&descAlignY=62&descSize=18&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1A0033,100:0D1B2A&height=230&section=header&text=SANUDA%20SANDIPA&fontSize=48&fontColor=00F5FF&animation=twinkling&desc=AI%2FML%20Engineer%20%E2%80%A2%20RAG%20Systems%20%E2%80%A2%20ECAI%202026%20Published&descAlignY=62&descSize=16&descColor=FF00E4&fontAlignY=35" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Final-Year+IT+Undergraduate+%40+SLIIT;AI%2FML+%26+RAG+Systems+Researcher;First+Author+%40+ECAI+2026+(IEEE-Indexed);Building+with+MERN+%2C+Kotlin+%26+LLMs" alt="Typing SVG" />
+<img src="https://github.com/sanudasandipa.png" width="150" height="150"/>
+
+<br/><br/>
+
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&repeat=true&width=650&lines=root%40sanuda%3A~%24+whoami;%3E+Final-Year+IT+Undergrad+%40+SLIIT;root%40sanuda%3A~%24+cat+achievements.log;%3E+First+Author+%40+ECAI+2026+(IEEE);root%40sanuda%3A~%24+status;%3E+%5BONLINE%5D+Building+RAG+%2B+Full-Stack+Systems" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<a href="https://www.linkedin.com/in/sanuda-sandipa-527ab426b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://x.com/SanudaSandipa"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://instagram.com/sanuda_sandipa"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://youtube.com/@feel_the_music22"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-<a href="https://www.sanudasandipa.live"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-<a href="https://orcid.org/0009-0002-9041-5586"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sanuda-sandipa-527ab426b"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/></a>
+<a href="https://x.com/SanudaSandipa"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=FF00E4"/></a>
+<a href="https://instagram.com/sanuda_sandipa"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=39FF14"/></a>
+<a href="https://youtube.com/@feel_the_music22"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=B026FF"/></a>
+<a href="https://www.sanudasandipa.live"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefox&logoColor=00F5FF"/></a>
+<a href="https://orcid.org/0009-0002-9041-5586"><img src="https://img.shields.io/badge/ORCID-0D1117?style=for-the-badge&logo=orcid&logoColor=FF00E4"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=sanudasandipa&style=for-the-badge&color=39FF14&labelColor=0D1117&label=PROFILE+VIEWS"/>
 
 </div>
 
 <br/>
 
-## 👋 About Me
+```bash
+$ whoami
+> Sanuda Sandipa — Final Year IT Undergraduate @ SLIIT
 
-I'm a final-year **IT undergraduate at SLIIT** with a focus on **AI/ML systems, RAG pipelines, and full-stack development**. I'm the first author on **"MarketMatic: Multi-Tenant Customer Support Smart Assistant with RAG for Small and Medium Enterprises,"** accepted to **ECAI 2026 (IEEE-indexed)**.
+$ cat mission.txt
+> Building AI systems that don't just respond — they retrieve, reason, and remember.
 
-- 🔭 Currently building **MarketMatic** (multi-tenant RAG customer support system), a **Jarvis-style desktop AI assistant**, and a **WhatsApp-integrated AI assistant** with tool calling
-- 🌱 Exploring the **MERN stack**, **Kotlin/Android**, and applied LLM engineering (RAG, embeddings, retrieval pipelines)
-- 📄 Research profile on [ORCID](https://orcid.org/0009-0002-9041-5586)
-- 📍 Based in Colombo, Sri Lanka
+$ ls current_focus/
+> marketmatic.rag   jarvis.assistant   whatsapp.ai   studymind.rag
+
+$ echo $STATUS
+> [ONLINE] Researching RAG pipelines · Shipping full-stack projects · ECAI 2026 published
+```
 
 <br/>
-
-## 🧐 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=sanudasandipa&color=brightgreen)
-
 
 ## 🚀 Featured Projects
 
@@ -41,23 +50,29 @@ I'm a final-year **IT undergraduate at SLIIT** with a focus on **AI/ML systems, 
 <td width="50%" valign="top">
 
 ### 🧠 MarketMatic
-Multi-tenant RAG-based customer support assistant for SMEs — first-author paper accepted to **ECAI 2026 (IEEE)**.
+> Multi-tenant RAG-based customer support assistant for SMEs — first-author paper accepted to **ECAI 2026 (IEEE)**.
 
-`LLaMA 3.1 8B` `LangChain` `ChromaDB` `FastAPI`
+![](https://img.shields.io/badge/LLaMA_3.1_8B-0D1117?style=flat-square&logoColor=00F5FF)
+![](https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logoColor=00F5FF)
+![](https://img.shields.io/badge/ChromaDB-0D1117?style=flat-square&logoColor=00F5FF)
+![](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=00F5FF)
 
 <!-- TODO: replace # with your repo link -->
-[View Repo →](#)
+**[ View Repo → ](#)**
 
 </td>
 <td width="50%" valign="top">
 
 ### 📚 StudyMind
-AI-powered study assistant — upload PDFs and get contextual Q&A over your own notes.
+> AI-powered study assistant — upload PDFs and get contextual Q&A grounded in your own notes.
 
-`LangChain` `ChromaDB` `Groq API` `FastAPI`
+![](https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logoColor=FF00E4)
+![](https://img.shields.io/badge/ChromaDB-0D1117?style=flat-square&logoColor=FF00E4)
+![](https://img.shields.io/badge/Groq_API-0D1117?style=flat-square&logoColor=FF00E4)
+![](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=FF00E4)
 
 <!-- TODO: replace # with your repo link -->
-[View Repo →](#)
+**[ View Repo → ](#)**
 
 </td>
 </tr>
@@ -65,23 +80,29 @@ AI-powered study assistant — upload PDFs and get contextual Q&A over your own 
 <td width="50%" valign="top">
 
 ### 🤖 Jarvis Desktop Assistant
-Voice-driven PC assistant with tool calling and app control — built for a university project.
+> Voice-driven PC assistant with tool calling and app control — university project.
 
-`Python` `faster-whisper` `edge-tts` `CustomTkinter`
+![](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=39FF14)
+![](https://img.shields.io/badge/faster--whisper-0D1117?style=flat-square&logoColor=39FF14)
+![](https://img.shields.io/badge/edge--tts-0D1117?style=flat-square&logoColor=39FF14)
+![](https://img.shields.io/badge/CustomTkinter-0D1117?style=flat-square&logoColor=39FF14)
 
 <!-- TODO: replace # with your repo link -->
-[View Repo →](#)
+**[ View Repo → ](#)**
 
 </td>
 <td width="50%" valign="top">
 
 ### 💬 WhatsApp AI Assistant
-WhatsApp-integrated assistant with tool calling, web search, and media handling.
+> WhatsApp-integrated assistant with tool calling, web search, and media handling.
 
-`Node.js` `whatsapp-web.js` `Claude API` `Redis`
+![](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=node.js&logoColor=B026FF)
+![](https://img.shields.io/badge/whatsapp--web.js-0D1117?style=flat-square&logo=whatsapp&logoColor=B026FF)
+![](https://img.shields.io/badge/Claude_API-0D1117?style=flat-square&logoColor=B026FF)
+![](https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=B026FF)
 
 <!-- TODO: replace # with your repo link -->
-[View Repo →](#)
+**[ View Repo → ](#)**
 
 </td>
 </tr>
@@ -89,19 +110,20 @@ WhatsApp-integrated assistant with tool calling, web search, and media handling.
 <td width="50%" valign="top">
 
 ### 💊 Medicine Reminder App
-Android app for medicine reminders with calendar integration, alerts, and a modern UI.
+> Android app for medicine reminders — calendar integration, alerts, modern UI.
 
-`Kotlin` `Android Studio`
+![](https://img.shields.io/badge/Kotlin-0D1117?style=flat-square&logo=kotlin&logoColor=00F5FF)
+![](https://img.shields.io/badge/Android_Studio-0D1117?style=flat-square&logo=androidstudio&logoColor=00F5FF)
 
 <!-- TODO: replace # with your repo link -->
-[View Repo →](#)
+**[ View Repo → ](#)**
 
 </td>
 <td width="50%" valign="top">
 
 <br/>
 
-<em>More projects on my <a href="https://github.com/sanudasandipa?tab=repositories">repositories page →</a></em>
+<em>More on my <a href="https://github.com/sanudasandipa?tab=repositories">repositories page →</a></em>
 
 </td>
 </tr>
@@ -111,68 +133,68 @@ Android app for medicine reminders with calendar integration, alerts, and a mode
 
 ## 🛠️ Tech Stack
 
-**Languages**
+**⚡ Languages**
 <br/>
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=00F5FF)
+![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=00F5FF)
+![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=00F5FF)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00F5FF)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00F5FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00F5FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00F5FF)
+![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=00F5FF)
+![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=00F5FF)
 
-**Frontend & Mobile**
+**🎨 Frontend & Mobile**
 <br/>
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=FF00E4)
+![React Native](https://img.shields.io/badge/React%20Native-0D1117?style=for-the-badge&logo=react&logoColor=FF00E4)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FF00E4)
+![Angular](https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=FF00E4)
+![AngularJS](https://img.shields.io/badge/AngularJS-0D1117?style=for-the-badge&logo=angularjs&logoColor=FF00E4)
+![Android](https://img.shields.io/badge/Android-0D1117?style=for-the-badge&logo=android&logoColor=FF00E4)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=FF00E4)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=FF00E4)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=FF00E4)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=FF00E4)
 
-**Backend & Databases**
+**⚙️ Backend & Databases**
 <br/>
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=39FF14)
+![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=39FF14)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=39FF14)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=39FF14)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-0D1117?style=for-the-badge&logo=microsoft-sql-server&logoColor=39FF14)
+![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=39FF14)
 
-**Tools & Design**
+**🧰 Tools & Design**
 <br/>
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![GIMP](https://img.shields.io/badge/GIMP-657D8B?style=for-the-badge&logo=gimp&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=B026FF)
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=B026FF)
+![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=B026FF)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-0D1117?style=for-the-badge&logo=adobe-photoshop&logoColor=B026FF)
+![Canva](https://img.shields.io/badge/Canva-0D1117?style=for-the-badge&logo=canva&logoColor=B026FF)
+![GIMP](https://img.shields.io/badge/GIMP-0D1117?style=for-the-badge&logo=gimp&logoColor=B026FF)
+![Blender](https://img.shields.io/badge/Blender-0D1117?style=for-the-badge&logo=blender&logoColor=B026FF)
+![Unity](https://img.shields.io/badge/Unity-0D1117?style=for-the-badge&logo=unity&logoColor=B026FF)
 
 <br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sanudasandipa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanudasandipa&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sanudasandipa&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00E4&text_color=39FF14&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanudasandipa&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=39FF14" height="165"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanudasandipa&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanudasandipa&hide_border=true&background=0D1117&ring=FF00E4&fire=39FF14&currStreakNum=00F5FF&sideNums=B026FF&currStreakLabel=00F5FF&sideLabels=B026FF&dates=8B8B9E" height="165"/>
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sanudasandipa&theme=tokyonight&no-frame=true&row=1&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sanudasandipa&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:0F172A&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:1A0033,100:000000&height=140&section=footer&animation=twinkling" width="100%"/>
